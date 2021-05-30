@@ -67,8 +67,8 @@ time {
 }
 
 .avt {
-    width: 160px;
-    height: 160px;
+    width: 169px;
+    /*height: 160px;*/
     border-radius: 50%;
     box-shadow: 2px 2px 8px rgba(0,0,0,.2);
 }
@@ -80,7 +80,7 @@ time {
 #heart {
     grid-column: span 2;
     display: grid;
-    grid-template-rows: 2;
+    grid-template-rows: 2px;
     font-size: 80px;
     color: #b90d46;
     align-self: center;
